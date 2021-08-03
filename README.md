@@ -12,7 +12,7 @@ more information: https://ruinergame.com
 
 ### Telegram Mobile
 ![imagem_2021-08-02_231407](https://user-images.githubusercontent.com/15617091/127946877-4ed32ae6-463a-4c06-a1d7-2432a0c8d447.png)
-![imagem_2021-08-02_231335](https://user-images.githubusercontent.com/15617091/127946843-2402dedb-1f4a-4daf-9ad2-7c973b4b99a2.png)
+
 
 
 ## Install
